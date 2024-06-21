@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahir Saeed</h1>
 <h3 align="center">Hey! I'm all about coding cool stuff. Whether it's sleek websites, mobile apps, desktop software or integration with AI/ML I'm on it! My goal? To learn, grow, and make tech magic happen.</h3>
 
-- 🔭 I’m currently working on [Chatzyr](www.tonesyncai.com)
+- 🔭 I’m currently working on [ToneSyncAI](www.tonesyncai.com)
 
 - 🌱 I’m currently learning **Finetunings of LLMs**
 
