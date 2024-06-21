@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tahir Saeed</h1>
-<h3 align="center">Hey! I'm all about coding cool stuff. Whether it's sleek websites, mobile apps, or desktop software, I'm on it! My goal? To learn, grow, and make tech magic happen.</h3>
+<h3 align="center">Hey! I'm all about coding cool stuff. Whether it's sleek websites, mobile apps, desktop software or integration with AI/ML I'm on it! My goal? To learn, grow, and make tech magic happen.</h3>
 
-- 🔭 I’m currently working on [Chatzyr](www.chatzyr.net)
+- 🔭 I’m currently working on [Chatzyr](www.tonesyncai.com)
 
-- 🌱 I’m currently learning **VueJs & OpenAI Whisper**
+- 🌱 I’m currently learning **Finetunings of LLMs**
 
-- 👯 I’m looking to collaborate on **NayaTone**
+- 👯 I’m looking to collaborate on **ToneSync**
 
 - 👨‍💻 All of my projects are available at [https://tahirsaeedt7.my.canva.site/portfolio](https://tahirsaeedt7.my.canva.site/portfolio)
 
