@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ToneSync**
 
-- 👨‍💻 All of my projects are available at [https://tahirsaeedt7.my.canva.site/portfolio](https://tahirsaeedt7.my.canva.site/portfolio)
-
-- 💬 Ask me about **React, ReactNative, Vue, Python, JavaScript**
+- 💬 Ask me about **React, ReactNative, Vue, Python, JavaScript, AI, ML**
 
 - 📫 How to reach me **sudotahirsaeed@gmail.com**
 
